@@ -2,7 +2,9 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
     padding: 20px;
+    background: -webkit-linear-gradient(top, #f0f0f0, #d9e2ec); /* Safari */
     background: linear-gradient(to bottom, #f0f0f0, #d9e2ec);
+    height: 100vh; /* Ensures it fills the screen */
 }
 
 nav {
