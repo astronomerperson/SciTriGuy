@@ -1,39 +1,42 @@
-# Curriculum Overview 📚
+# Honors Physics Curriculum 📘
 
-Welcome to the **SciTriGuy Curriculum**! This page serves as the starting point for all course materials.
+Welcome to **Honors Physics**! Below, you’ll find all course topics, organized by unit.
 
-## 🔬 Available Courses:
-- 📘 [Honors Physics](./honors_physics/)  
-  Explore classical mechanics, energy, momentum, electricity, waves, and more.
+## 🔢 **Units & Lessons**
+- 📂 [Unit 1: Kinematics](./01_kinematics/)
+- 📂 [Unit 2: Newton’s Laws](./02_newtons_laws/)
+- 📂 [Unit 3: Work, Power, and Energy](./03_work_power_energy/)
+- 📂 [Unit 4: Momentum and Collisions](./04_momentum_collisions/)
+- 📂 [Unit 5: Circular Motion and Orbits](./05_circular_motion_orbits/)
+- 📂 [Unit 6: Simple Harmonic Motion and Waves](./06_simple_harmonic_motion_waves/)
+- 📂 [Unit 7: Electric Fields and Potential](./07_electric_fields_potential/)
+- 📂 [Unit 8: Electric Circuits](./08_electric_circuits/)
+- 📂 [Unit 9: Electromagnetic Waves](./09_electromagnetic_waves/)
+- 📂 [Unit 10: Light and Optics](./10_light_optics/)
+- 📂 [Unit 11: Atomic Physics](./11_atomic_physics/)
+- 📂 [Unit 12: Nuclear Physics](./12_nuclear_physics/)
+- 📂 [Unit 13: Quantum Mechanics](./13_quantum_mechanics/)
+- 📂 [Unit 14: General Relativity](./14_general_relativity/)
+
+Click on a unit to access **lesson notes, homework, labs, and resources**.
+
+---
+
+### 📖 **How to Navigate**
+- **Each unit folder** contains:
+  - 📖 **Lesson Notes**
+  - ✏️ **Homework Problems**
+  - 🔬 **Labs & Experiments**
+  - 📑 **Additional Resources**
   
-- 📗 [AP Physics](./ap_physics/) *(Coming Soon)*  
-  Advanced placement-level physics with rigorous problem-solving.
-
-- 🔭 [Astronomy](./astronomy/) *(Coming Soon)*  
-  Learn about planetary science, stellar evolution, and the cosmos.
-
-- 🌌 [Observatory & Planetarium](./observatory/) *(Coming Soon)*  
-  Hands-on astrophysics and telescope operation guides.
+Start with [Unit 1: Kinematics](./01_kinematics/) or choose another topic above!
 
 ---
 
-### **How to Use This Curriculum**
-📖 **Lessons** → Read key concepts and study guides in each section.  
-✏️ **Homework** → Practice problems to reinforce learning.  
-🔬 **Labs** → Hands-on experiments and investigations.  
-📑 **Resources** → Additional videos, simulators, and reference sheets.  
-
----
-
-## 📂 Navigate to Your Course
-Click on any subject above to start learning!
-
----
-
-### **📌 Step 2: Save and Push the Changes**
-1. Click **"Commit changes"** at the bottom.
-2. If working in **GitHub Codespaces**, also push the changes:
+### **✅ Step 2: Save and Commit Changes**
+1. **Click "Commit new file"** at the bottom.
+2. If you’re using **GitHub Codespaces**, also push the changes:
    ```bash
    git add .
-   git commit -m "Updated Curriculum Overview page"
+   git commit -m "Added index.md for Honors Physics"
    git push origin main
